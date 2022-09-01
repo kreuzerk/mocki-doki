@@ -1,0 +1,29 @@
+{
+  "name": "mocki-doki",
+  "version": "1.0.0",
+  "description": "Playground project to test mocking in Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kreuzerk/mocki-doki.git"
+  },
+  "keywords": [
+    "Jest",
+    "Mocking"
+  ],
+  "author": "Kevin Kreuzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kreuzerk/mocki-doki/issues"
+  },
+  "homepage": "https://github.com/kreuzerk/mocki-doki#readme",
+  "devDependencies": {
+    "@types/jest": "^29.0.0",
+    "jest": "^28.1.3",
+    "ts-jest": "^28.0.8",
+    "typescript": "^4.8.2"
+  }
+}
